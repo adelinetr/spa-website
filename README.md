@@ -3,6 +3,8 @@
 I've started studying web-development on my own in October and this project was made in January. 
 It was amongst the first works I've made to start practicing one-page websites, so main thing I focused on was implementing different designs and learning more about use of flexbox.
 
+- Here I also used AOS Library for smooth fade-in animations on scroll.
+
 ![spa-website](https://github.com/adelinetr/spa-website/assets/119743518/fb3d620d-5b03-4112-afac-00963417d35f)
 ![mobile-spa](https://github.com/adelinetr/spa-website/assets/119743518/4a73b128-b49b-456c-8c3c-39cc96de6c45)
 
